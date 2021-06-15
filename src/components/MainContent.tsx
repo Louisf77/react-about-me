@@ -2,11 +2,11 @@ import { capitalise } from "../utils/capitalise";
 
 function MainContent(): JSX.Element {
   const location = {
-    city: "Kuala Lumpur",
-    country: "Malaysia",
+    city: "London",
+    country: "UK",
   };
 
-  const numOne = 3;
+  const numOne = 2;
   const numTwo = 6;
 
   const threeFavouriteFoods = ["Chocolate", "Noodles", "Pizza"];
